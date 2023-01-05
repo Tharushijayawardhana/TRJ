@@ -1,0 +1,3 @@
+class Trees{
+	class node{}
+}
